@@ -6,4 +6,4 @@ def minus(a, b):
     """Subtract b from a."""
     return a - b
 def power(a,b):
-    pass
+    a**b
