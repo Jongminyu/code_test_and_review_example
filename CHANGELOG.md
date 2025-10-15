@@ -11,3 +11,8 @@
 - Set up GitHub Actions workflows for automated testing and code review.
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
+## [Unreleased]
+### Added
+- Added `power(a,b)` function in `functions.py` to perform division.
+### Fixed
+- power 함수에 내용을 추가했습니다. 
