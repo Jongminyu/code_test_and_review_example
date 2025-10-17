@@ -15,7 +15,7 @@
 ### Added
 - Added `power(a,b)` function in `functions.py` to perform power.
 ### Fixed
-- power 함수에 내용을 추가했습니다. 
+- power 함수에 기능을 추가했습니다.  
 ### Added
 - Added `multiple(a,b)` function in `functions.py` to perform multiple.
 ### Added
