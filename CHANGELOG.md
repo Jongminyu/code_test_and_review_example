@@ -20,3 +20,5 @@
 - Added `multiple(a,b)` function in `functions.py` to perform multiple.
 ### Added
 - Added `divide(a, b)` function in `functions.py` to perform division. 
+### Added
+- divide 함수에서 0으로 나누었을 때 오류가 발생한다는 내용을 추가하였습니다. 
